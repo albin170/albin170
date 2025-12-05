@@ -26,9 +26,20 @@ Here are some ideas to get you started:
 </p>
 
 ---
-###📊 GitHub Stats
- 
-![Albin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=false)
+## 📊 GitHub Stats
+
+<!-- Main Stats (Stable Mirror) -->
+![Albin's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=albin170&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=albin170&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=albin170&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5)
+
+## 📈 Contribution Graph
+![Albin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=albin170&theme=tokyo-night)
+
 
 
 ---
