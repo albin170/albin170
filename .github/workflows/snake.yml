@@ -2,7 +2,7 @@ name: github-snake
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # runs daily
   workflow_dispatch:
 
 jobs:
@@ -11,6 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate Snake
-        uses: platane/snk@v1.0.0
+        uses: platane/snk@main   # ← Use 'main' instead of v1.0.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
