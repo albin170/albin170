@@ -26,8 +26,16 @@ Here are some ideas to get you started:
 </p>
 
 ---
-## 📊 GitHub Stats 
-<p align="center"> <img height="180px" src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=radical" /> <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=radical" /> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Main Stats (Stable Mirror) -->
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=albin170&show_icons=true&theme=radical" />
+
+  <!-- Top Languages -->
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=radical" />
+</p>
+
 
 
 
