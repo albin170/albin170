@@ -74,14 +74,7 @@ Python · MySQL · HTML · CSS · JavaScript · Git · GitHub
 </p>
 
 ---
-## 🐍 GitHub Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/albin170/albin170/output/snake-dark.svg" alt="GitHub Snake Animation" />
 
-  <img src="https://raw.githubusercontent.com/albin170/albin170/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/albin170/albin170/output/snake-dark.svg" />
-</p>
----
 
 
 ## 🌐 Connect With Me  
