@@ -4,7 +4,7 @@
 - 🌱 Currently learning **C, C++, Java, JavaScript**
 - 👯 Looking to collaborate on **Web Development**
 - 🤔 Need help with **C++, Java, JavaScript**
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development, Python, MySQL**
 - 📫 Reach me at **albinbinu170@gmail.com**
 - 😄 Pronouns: **He / Him**
 - ⚡ Fun fact: **I love building creative websites 🚀**
@@ -27,8 +27,10 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=radical" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=radical" />
+  <img height="180px"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=albin170&show_icons=true&theme=radical" />
+  <img height="180px"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -49,10 +51,8 @@
 
 ## 🛠️ Tech Stack
 **Languages & Tools:**  
-- 💻 Python, MySQL  
-- 🌐 HTML, CSS, JavaScript  
-- ⚙️ C, C++, Java  
-- 🛠 Git & GitHub  
+Python · MySQL · C · C++ · Java · JavaScript  
+HTML · CSS · Git · GitHub  
 
 ---
 
@@ -60,7 +60,7 @@
 - 🎓 Computer Science Engineering Student  
 - 💡 Interested in **Web Development, AI & Backend Systems**  
 - 🧑‍💻 Strong in **Python & MySQL**  
-- 🌱 Currently building **projects & websites**
+- 🌱 Actively building **projects & websites**
 
 ---
 
@@ -73,8 +73,8 @@
 
 ## 🌐 Connect With Me
 - 📧 Email: **albinbinu170@gmail.com**
-- 💼 LinkedIn: *(add your link here)*
-- 🌍 Portfolio: *(add your website link)*
+- 💼 LinkedIn: *(add your LinkedIn link)*
+- 🌍 Portfolio: *(add your Vercel site link)*
 
 ---
 
