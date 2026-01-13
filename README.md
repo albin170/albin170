@@ -1,21 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Albin Binu
 
+- 🎓 CSE Student at **St. Joseph’s College of Engineering and Technology, Palai (Autonomous)**
+- 🌱 Currently learning **C, C++, Java, JavaScript**
+- 👯 Looking to collaborate on **Web Development**
+- 🤔 Need help with **C++, Java, JavaScript**
+- 💬 Ask me about **Web Development**
+- 📫 Reach me at **albinbinu170@gmail.com**
+- 😄 Pronouns: **He / Him**
+- ⚡ Fun fact: **I love building creative websites 🚀**
 
+---
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on St. Joseph's College of Engineering and Technology, Palai (Autonomous)
-- 🌱 I’m currently learning c,c++,java,javascript
-- 👯 I’m looking to collaborate on web development
-- 🤔 I’m looking for help with c++,java,javascript
-- 💬 Ask me about web development
-- 📫 How to reach me: albinbinu170@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <!-- 🔥 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=FF00D0&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Albin+Binu;Computer+Science+Student;Python+%26+MySQL+Developer;Welcome+to+my+GitHub!+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=FF00D0&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Albin+Binu;Computer+Science+Student;Python+%26+MySQL+Developer;Web+Development+Enthusiast;Welcome+to+my+GitHub!+🚀">
 </p>
 
 ---
@@ -26,25 +24,19 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
 ## 📊 GitHub Stats
-
 <p align="center">
-  <!-- Main Stats (Stable Mirror) -->
-  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=albin170&show_icons=true&theme=radical" />
-
-  <!-- Top Languages -->
-  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=radical" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=radical" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=radical" />
 </p>
 
-
-
-
 ---
+
 ## 🔥 GitHub Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=albin170&theme=radical" />
 </p>
-
 
 ---
 
@@ -57,17 +49,21 @@ Here are some ideas to get you started:
 
 ## 🛠️ Tech Stack
 **Languages & Tools:**  
-Python · MySQL · HTML · CSS · JavaScript · Git · GitHub
+- 💻 Python, MySQL  
+- 🌐 HTML, CSS, JavaScript  
+- ⚙️ C, C++, Java  
+- 🛠 Git & GitHub  
 
 ---
 
 ## 🚀 About Me
-- 🎓 CSE Student at **St Joseph Engineering College, Palai**  
-- 💡 Interested in AI, web development & backend systems  
-- 🧑‍💻 Skilled in **Python & MySQL**  
-- 🌱 Currently building creative websites & tools  
+- 🎓 Computer Science Engineering Student  
+- 💡 Interested in **Web Development, AI & Backend Systems**  
+- 🧑‍💻 Strong in **Python & MySQL**  
+- 🌱 Currently building **projects & websites**
 
 ---
+
 ## 🐍 GitHub Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/albin170/albin170/output/snake-dark.svg" />
@@ -75,12 +71,11 @@ Python · MySQL · HTML · CSS · JavaScript · Git · GitHub
 
 ---
 
-
-
-## 🌐 Connect With Me  
-(Add your links here)
+## 🌐 Connect With Me
+- 📧 Email: **albinbinu170@gmail.com**
+- 💼 LinkedIn: *(add your link here)*
+- 🌍 Portfolio: *(add your website link)*
 
 ---
 
 ⭐ **Thanks for visiting my GitHub profile!** ⭐
-
