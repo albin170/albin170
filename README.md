@@ -39,17 +39,22 @@
 ---
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=albin170&theme=radical&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=albin170&theme=radical&no-frame=true&margin-w=10" />
+
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=radical" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=radical" />
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=radical" />
 </p>
+
 
 ---
 
@@ -57,6 +62,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=albin170&theme=radical" />
 </p>
+
 
 ---
 
@@ -66,11 +72,10 @@
 </p>
 
 ---
-
-## 🐍 GitHub Snake Animation
 <p align="center">
-  <img src="https://github.com/albin170/albin170/raw/output/github-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albin170&theme=react-dark" />
 </p>
+
 
 ---
 
@@ -95,6 +100,7 @@
 </p>
 
 ---
-## 🐍 GitHub Snake Animation <p align="center"> <img src="https://raw.githubusercontent.com/albin170/albin170/output/snake-dark.svg" /> </p>
+## 🐍 GitHub Snake Animation 
+<p align="center"> <img src="https://raw.githubusercontent.com/albin170/albin170/output/snake-dark.svg" /> </p>
 
 ⭐ **Thanks for visiting my GitHub profile!** ⭐
