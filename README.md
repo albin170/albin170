@@ -1,80 +1,98 @@
-## Hi there 👋 I'm Albin Binu
 
-- 🎓 CSE Student at **St. Joseph’s College of Engineering and Technology, Palai (Autonomous)**
-- 🌱 Currently learning **C, C++, Java, JavaScript**
-- 👯 Looking to collaborate on **Web Development**
-- 🤔 Need help with **C++, Java, JavaScript**
-- 💬 Ask me about **Web Development, Python, MySQL**
-- 📫 Reach me at **albinbinu170@gmail.com**
-- 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: **I love building creative websites 🚀**
+# 👋 Hi there, I'm Albin Binu
+
+🎓 CSE Student at **St. Joseph’s College of Engineering and Technology, Palai (Autonomous)**  
+💻 Web Development Enthusiast | 🐍 Python & MySQL  
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=FF00D0&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Albin+Binu;CSE+Student;Web+Developer;Python+%26+MySQL;Welcome+to+my+GitHub+🚀" />
+</p>
 
 ---
 
-<!-- 🔥 Animated Typing Header -->
+## 👨‍🎓 About Me
+- 🌱 Learning **C, C++, Java, JavaScript**
+- 👯 Open to **Web Development collaborations**
+- 💬 Ask me about **Python, MySQL, Web Development**
+- 📫 **albinbinu170@gmail.com**
+- ⚡ Fun fact: *I love building creative websites 🚀*
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=FF00D0&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Albin+Binu;Computer+Science+Student;Python+%26+MySQL+Developer;Web+Development+Enthusiast;Welcome+to+my+GitHub!+🚀">
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github&theme=dark" />
+</p>
+
+---
+
+## 🔥 Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFEA"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FFEA"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFEA"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFEA"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFEA"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=albin170&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=albin170&theme=radical&no-frame=true" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180px"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=albin170&show_icons=true&theme=radical" />
-  <img height="180px"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak Stats
+## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=albin170&theme=radical" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=albin170&theme=react-dark" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-**Languages & Tools:**  
-Python · MySQL · C · C++ · Java · JavaScript  
-HTML · CSS · Git · GitHub  
-
----
-
-## 🚀 About Me
-- 🎓 Computer Science Engineering Student  
-- 💡 Interested in **Web Development, AI & Backend Systems**  
-- 🧑‍💻 Strong in **Python & MySQL**  
-- 🌱 Actively building **projects & websites**
-
----
-
 ## 🐍 GitHub Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/albin170/albin170/output/snake-dark.svg" />
+  <img src="https://github.com/albin170/albin170/raw/output/github-snake-dark.svg" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=albin170&label=Profile%20Views&color=ff00ff&style=flat" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: **albinbinu170@gmail.com**
-- 💼 LinkedIn: *(add your LinkedIn link)*
-- 🌍 Portfolio: *(add your Vercel site link)*
+<p align="center">
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:albinbinu170@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+  <a href="https://your-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
