@@ -37,34 +37,38 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-<img
-  src="https://github-profile-trophy.vercel.app/?username=albin170&theme=radical&no-frame=true"
-  alt="GitHub Trophies"
-  referrerpolicy="no-referrer"
-/>
-
-
-
----
-
 ## 📊 GitHub Stats
-<img
-  src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=radical"
-  alt="GitHub Stats"
-  referrerpolicy="no-referrer"
-/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=radical&cache_seconds=21600"
+    alt="GitHub Stats"
+  />
+</p>
+
+
 
 
 ---
-
 ## 🔥 GitHub Streak
-<img
-  src="https://streak-stats.demolab.com/?user=albin170&theme=radical"
-  alt="GitHub Streak"
-  referrerpolicy="no-referrer"
-/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=albin170&theme=radical&cache_seconds=21600"
+    alt="GitHub Streak"
+  />
+</p>
+
+
+
+
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=albin170&theme=radical&no-frame=true"
+    alt="GitHub Trophies"
+  />
+</p>
 
 
 
