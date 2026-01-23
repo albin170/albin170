@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍🎓 About Me
+## 👨‍🎓 About Me   <img src="https://github.com/user-attachments/assets/4238e265-916c-4dde-a5d1-6606af48de1f" width="180" />
 - 🌱 Learning **C, C++, Java, JavaScript**
 - 👯 Open to **Web Development collaborations**
 - 💬 Ask me about **Python, MySQL, Web Development**
