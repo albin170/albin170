@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm Albin Binu
+# 👋 Hi there, I'm Albin Binu  <img src="https://github.com/user-attachments/assets/c59d0348-c502-4ce0-bd55-584ad39f582f" width="50" /> 
 
 🎓 CSE Student at **St. Joseph’s College of Engineering and Technology, Palai (Autonomous)**  
 💻 Web Development Enthusiast | 🐍 Python & MySQL  
