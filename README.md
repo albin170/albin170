@@ -1,97 +1,105 @@
+<!-- ================= HEADER WAVE ================= -->
 
-# 👋 Hi there, I'm Albin Binu  <img src="https://github.com/user-attachments/assets/c59d0348-c502-4ce0-bd55-584ad39f582f" width="50" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Albin%20Binu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+<!-- ================= TYPING ANIMATION ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Albin+Binu;Computer+Science+Student;Full+Stack+Web+Developer;Python+%7C+MySQL+%7C+JavaScript;Building+Creative+Digital+Experiences+🚀" />
+</p>
+
+<!-- ================= PROFILE VIEWS ================= -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=albin170&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+</p>
+
+---
+
+# 👨‍💻 About Me
 
 🎓 CSE Student at **St. Joseph’s College of Engineering and Technology, Palai (Autonomous)**  
-💻 Web Development Enthusiast | 🐍 Python & MySQL  
+💻 Passionate about Full Stack Web Development  
+🚀 Focused on building clean, scalable, real-world applications  
+
+- 🌱 Currently Learning: **C, C++, Java, Advanced JavaScript**
+- 🧠 Strong in: **Python, MySQL, Web Development**
+- 🤝 Open to collaborations & internships
+- 📫 Email: **albinbinu170@gmail.com**
+
+---
+
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=28&duration=3000&color=FF00D0&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Albin+Binu;CSE+Student;Web+Developer;Python+%26+MySQL;Welcome+to+my+GitHub+🚀" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,java,cpp,c,git,github&perline=5" />
 </p>
 
 ---
 
-## 👨‍🎓 About Me   <img src="https://github.com/user-attachments/assets/4238e265-916c-4dde-a5d1-6606af48de1f" width="180" />
-- 🌱 Learning **C, C++, Java, JavaScript**
-- 👯 Open to **Web Development collaborations**
-- 💬 Ask me about **Python, MySQL, Web Development**
-- 📫 **albinbinu170@gmail.com**
-- ⚡ Fun fact: *I love building creative websites 🚀*
+# 🚀 Featured Projects
+
+## 🔹 Portfolio Website
+- Responsive Design
+- Modern UI/UX
+- Hosted on Vercel
+
+## 🔹 Student Management System
+- Python + MySQL
+- CRUD Operations
+- Database Integration
+
+## 🔹 Dynamic Web Applications
+- JavaScript Interactivity
+- Clean Component Structure
 
 ---
 
-## 🛠️ Tech Stack
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github&theme=dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFEA"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FFEA"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFEA"/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFEA"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFEA"/>
-</p>
-
----
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albin170&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albin170&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
-## 🔥 GitHub Streak
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=albin170&theme=radical&cache_seconds=21600"
-    alt="GitHub Streak"
-  />
-</p>
-
-
-
-
----
-## 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=albin170&theme=radical&no-frame=true"
-    alt="GitHub Trophies"
-  />
-</p>
-
-
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albin170&theme=react-dark" />
-</p>
-
----
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albin170&theme=react-dark" />
-</p>
-
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=albin170&label=Profile%20Views&color=ff00ff&style=flat" />
+  <img src="https://streak-stats.demolab.com?user=albin170&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 📈 Activity Graph
+
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=albin170&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/albin170/albin170/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 💬 Dynamic Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
   <a href="mailto:albinbinu170@gmail.com">
@@ -103,7 +111,5 @@
 </p>
 
 ---
-## 🐍 GitHub Snake Animation 
-<p align="center"> <img src="https://raw.githubusercontent.com/albin170/albin170/output/snake-dark.svg" /> </p>
 
-⭐ **Thanks for visiting my GitHub profile!** ⭐
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
