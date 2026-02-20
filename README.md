@@ -1,47 +1,39 @@
-<!-- ================= CYBERPUNK 3D HEADER ================= -->
+<!-- ================= PROFESSIONAL 3D HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a40,100:000000&height=260&section=header&text=ALBIN%20BINU&fontSize=60&fontColor=00F7FF&animation=blinking&fontAlignY=35&desc=3D%20AI%20FULL%20STACK%20DEVELOPER&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=ALBIN%20BINU&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60"/>
 </p>
 
 ---
 
-# 🧬 FLOATING 3D ROTATING NAME
+# 🌐 3D Interactive Profile Model
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=1000&lines=ALBIN+BINU;FULL+STACK+ENGINEER;AI+SYSTEM+ARCHITECT;CYBER+INTERFACE+ACTIVE" />
+  <iframe 
+    src="https://my.spline.design/robotfollowcursor-8c1f0d7e4e7f7f0b5b1e7c3e1e3f1e7f/" 
+    frameborder="0" 
+    width="100%" 
+    height="480px">
+  </iframe>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="600"/>
-</p>
+> Replace the Spline link above with your own 3D scene export.
 
 ---
 
-# 🤖 AI HOLOGRAM ASSISTANT
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="350"/>
-</p>
+# 👨‍💻 Professional Summary
 
 ```bash
-> Booting AI Assistant...
-> Neural Interface: ONLINE
-> Security Layer: ACTIVE
-> Developer Mode: ENABLED
+Name        : Albin Binu
+Education   : B.Tech Computer Science
+Role        : Full Stack Developer
+Core Stack  : Python | MySQL | JavaScript
+Focus       : Scalable Web Systems & Clean Architecture
 ```
 
 ---
 
-# 🌌 CYBERPUNK CITY BACKGROUND
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
-</p>
-
----
-
-# ⚙️ TECH MATRIX
+# 🛠 Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,java,cpp,c,git,github&perline=5"/>
@@ -49,36 +41,44 @@
 
 ---
 
-# 📊 LIVE SYSTEM ANALYTICS
+# 📊 GitHub Performance Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
+# 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/albin170/albin170/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://streak-stats.demolab.com?user=albin170&theme=default&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 CONNECT
+# 🐍 Contribution Visualization
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/albin170/albin170/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🌍 Connect
 
 <p align="center">
   <a href="mailto:albinbinu170@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-203a43?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-203a43?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a40,100:000000&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
