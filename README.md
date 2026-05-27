@@ -46,6 +46,18 @@ Focus Areas:
 🏆 Consistently learning emerging technologies  
 
 ---
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albin170&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+---
 
 # 📊 GitHub Analytics
 
@@ -69,14 +81,18 @@ Focus Areas:
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=albin170&theme=radical&no-frame=true&margin-w=10"/>
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Backend-Developer-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Focused-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge"/>
 </p>
+```
 
 
 
 
 
----
+
 
 # 📈 Contribution Graph
 
