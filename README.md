@@ -45,16 +45,6 @@ Focus Areas:
 🏆 Passionate about scalable backend architecture  
 🏆 Consistently learning emerging technologies  
 
----
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albin170&theme=tokyonight&hide_border=true"/>
-</p>
 
 
 ---
@@ -85,6 +75,21 @@ Focus Areas:
   <img src="https://img.shields.io/badge/Backend-Developer-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-Focused-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge"/>
+</p>
+```
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albin170&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 ```
 
