@@ -67,8 +67,12 @@ Focus Areas:
 
 ---
 
-# 🏆 GitHub Trophies
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+    <img src="https://github-trophies.vercel.app/?username=albin170&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python"/>
