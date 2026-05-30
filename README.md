@@ -102,6 +102,10 @@ Focus Areas:
 <p align="center">
   <img src="https://raw.githubusercontent.com/albin170/albin170/output/github-snake.svg" alt="Snake animation" />
 </p>
+<!--Snake--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/albin170/albin170/output/snake-dark.svg" alt="snake animation"/>
+</p>
 ---
 
 # 🌐 Connect With Me
