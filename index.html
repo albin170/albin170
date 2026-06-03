@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Albin Binu — CS Engineer, AI Developer & Full-Stack Builder. Nature-themed portfolio." />
+  <meta name="keywords" content="Albin Binu, Portfolio, AI Developer, Full Stack, Machine Learning, React, Python" />
+  <title>Albin Binu | Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;0,900;1,600&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- ── NATURE BACKGROUND LAYERS ── -->
+<div class="nature-bg">
+  <div class="bg-layer layer1"></div>
+  <div class="bg-layer layer2"></div>
+  <div class="bg-layer layer3"></div>
+  <!-- Floating bokeh orbs -->
+  <div class="bokeh" style="--x:12%;--y:20%;--s:280px;--c:rgba(34,197,94,0.07);--d:0s;--dur:9s"></div>
+  <div class="bokeh" style="--x:75%;--y:15%;--s:200px;--c:rgba(217,119,6,0.06);--d:2s;--dur:12s"></div>
+  <div class="bokeh" style="--x:88%;--y:60%;--s:320px;--c:rgba(34,197,94,0.05);--d:1s;--dur:14s"></div>
+  <div class="bokeh" style="--x:5%;--y:70%;--s:180px;--c:rgba(14,165,233,0.05);--d:3s;--dur:10s"></div>
+  <div class="bokeh" style="--x:50%;--y:85%;--s:240px;--c:rgba(217,119,6,0.04);--d:0.5s;--dur:11s"></div>
+  <div class="bokeh" style="--x:35%;--y:40%;--s:150px;--c:rgba(34,197,94,0.06);--d:4s;--dur:8s"></div>
+  <!-- Floating leaves -->
+  <div class="leaf leaf1">🍃</div>
+  <div class="leaf leaf2">🌿</div>
+  <div class="leaf leaf3">🍃</div>
+  <div class="leaf leaf4">🌱</div>
+  <div class="leaf leaf5">🍃</div>
+</div>
+
+<!-- ── TOP NAV ── -->
+<header id="topnav">
+  <div class="nav-logo">
+    <div class="logo-img-wrap">
+      <img src="charter.jpg" alt="Albin Binu" class="logo-avatar" />
+    </div>
+    <span class="logo-name">Albin Binu</span>
+  </div>
+  <nav class="nav-links" id="nav-links">
+    <a href="#home"   class="navlink active">Home</a>
+    <a href="#about"  class="navlink">About</a>
+    <a href="#skills" class="navlink">Skills</a>
+    <a href="#projects" class="navlink">Projects</a>
+    <a href="#achievements" class="navlink">Achievements</a>
+  </nav>
+  <div class="nav-right">
+    <button class="btn-contact" onclick="document.getElementById('contact-modal').classList.remove('hidden')">🌿 Contact</button>
+    <button class="hamburger" id="hamburger" onclick="toggleMenu()">☰</button>
+  </div>
+</header>
+
+<!-- ── HERO / HOME ── -->
+<section id="home" class="section section-hero">
+  <div class="hero-content">
+    <div class="hero-text">
+      <div class="hero-tag">🌿 Open to Opportunities</div>
+      <h1 class="hero-name">Albin<br><span class="name-accent">Binu</span></h1>
+      <p class="hero-role">CS Engineer · AI Developer · Full‑Stack Builder</p>
+      <p class="hero-desc">
+        Building AI-powered applications and modern web platforms that turn ideas into real-world solutions.
+        <em class="em-nature">Rooted in passion, growing with purpose.</em>
+      </p>
+      <div class="hero-btns">
+        <a href="#about" class="btn-primary">Explore Portfolio →</a>
+        <a href="#" class="btn-secondary" id="resume-btn">📄 Resume</a>
+      </div>
+      <div class="hero-socials">
+        <a href="https://github.com/albin170/" target="_blank" class="social-link">
+          <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+          GitHub
+        </a>
+        <a href="https://www.linkedin.com/in/albinbinu170/" target="_blank" class="social-link">
+          <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+          LinkedIn
+        </a>
+        <a href="mailto:albinbinu170@gmail.com" class="social-link">
+          <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/></svg>
+          Email
+        </a>
+      </div>
+    </div>
+
+    <!-- ANIMATED AVATAR -->
+    <div class="hero-avatar-wrap">
+      <!-- Outer decorative rings -->
+      <div class="avatar-orbit orbit1">
+        <div class="orbit-dot dot-green"></div>
+      </div>
+      <div class="avatar-orbit orbit2">
+        <div class="orbit-dot dot-amber"></div>
+      </div>
+      <div class="avatar-orbit orbit3"></div>
+      <!-- Glow backdrop -->
+      <div class="avatar-glow"></div>
+      <!-- VIDEO AVATAR -->
+      <div class="avatar-frame" id="avatar-frame-3d">
+        <!-- Scan line overlay -->
+        <div class="video-scan"></div>
+        <!-- Glowing corner accents -->
+        <span class="vc vc-tl"></span>
+        <span class="vc vc-tr"></span>
+        <span class="vc vc-bl"></span>
+        <span class="vc vc-br"></span>
+        <video
+          id="avatar-video"
+          autoplay
+          loop
+          muted
+          playsinline
+          poster="charter.jpg"
+        >
+          <source src="video.mp4" type="video/mp4" />
+          <!-- Fallback if no video file found -->
+          <img src="charter.jpg" alt="Albin Binu" class="video-fallback" />
+        </video>
+      </div>
+      <!-- Floating nature badges -->
+      <div class="float-badge badge-ai">🤖 AI Dev</div>
+      <div class="float-badge badge-fs">💻 Full-Stack</div>
+      <div class="float-badge badge-ml">🧠 ML</div>
+      <!-- Bottom label -->
+      <div class="avatar-label">🌿 Prompt Warrior</div>
+    </div>
+  </div>
+
+  <!-- Scroll indicator -->
+  <div class="scroll-hint">
+    <div class="scroll-line"></div>
+    <span>Scroll</span>
+  </div>
+</section>
+
+<!-- ── ABOUT ── -->
+<section id="about" class="section">
+  <div class="section-inner">
+    <div class="section-head">
+      <span class="section-icon">🌱</span>
+      <h2 class="section-title">About Me</h2>
+      <div class="section-divider"></div>
+    </div>
+    <div class="about-grid">
+      <div class="about-photo-col">
+        <div class="about-img-wrap">
+          <img src="charter.jpg" alt="Albin Binu" class="about-photo" />
+          <div class="about-img-ring ring1"></div>
+          <div class="about-img-ring ring2"></div>
+          <!-- Info pills floating around photo -->
+          <div class="info-pill pill-loc">📍 Kerala, India</div>
+          <div class="info-pill pill-edu">🎓 B.Tech CSE 2029</div>
+        </div>
+        <div class="about-info-list">
+          <div class="info-row"><span class="info-icon">📍</span><span>Kottayam, Kerala, India</span></div>
+          <div class="info-row"><span class="info-icon">🎓</span><span>B.Tech CSE, SJCET Palai</span></div>
+          <div class="info-row"><span class="info-icon">📅</span><span>Expected Grad: 2029</span></div>
+          <div class="info-row"><span class="info-icon">📧</span><span>albinbinu170@gmail.com</span></div>
+          <div class="info-row"><span class="info-icon">📞</span><span>7012787615</span></div>
+        </div>
+      </div>
+      <div class="about-text-col">
+        <p class="about-label">CAREER OBJECTIVE</p>
+        <p class="about-obj">
+          Motivated and ambitious B.Tech Computer Science student with a strong passion for Artificial Intelligence, Machine Learning, Full-Stack Development, and Software Engineering. Seeking opportunities to apply technical expertise, solve real-world problems, and contribute to innovative technology-driven projects.
+        </p>
+        <div class="softskills">
+          <span class="ss-tag">🧩 Problem Solving</span>
+          <span class="ss-tag">💬 Communication</span>
+          <span class="ss-tag">🤝 Collaboration</span>
+          <span class="ss-tag">🎯 Leadership</span>
+          <span class="ss-tag">🧠 Critical Thinking</span>
+          <span class="ss-tag">⚡ Adaptability</span>
+        </div>
+        <div class="about-actions">
+          <a href="#" class="btn-primary" id="dl-resume">📄 Download Resume</a>
+          <a href="#skills" class="btn-secondary">View Skills →</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── SKILLS ── -->
+<section id="skills" class="section section-alt">
+  <div class="section-inner">
+    <div class="section-head">
+      <span class="section-icon">⚡</span>
+      <h2 class="section-title">Skills Universe</h2>
+      <div class="section-divider"></div>
+    </div>
+    <div class="skills-grid">
+      <div class="skill-group">
+        <h3 class="skill-group-title">🌐 Web Technologies</h3>
+        <div class="skill-tags">
+          <span class="stag web">HTML5</span><span class="stag web">CSS3</span>
+          <span class="stag web">JavaScript</span><span class="stag web">React.js</span>
+          <span class="stag web">Node.js</span><span class="stag web">REST APIs</span>
+          <span class="stag web">Full-Stack Dev</span>
+        </div>
+      </div>
+      <div class="skill-group">
+        <h3 class="skill-group-title">🤖 AI & Machine Learning</h3>
+        <div class="skill-tags">
+          <span class="stag ai">Machine Learning</span><span class="stag ai">Deep Learning</span>
+          <span class="stag ai">Generative AI</span><span class="stag ai">AI Agents</span>
+          <span class="stag ai">Prompt Engineering</span><span class="stag ai">AI App Dev</span>
+        </div>
+      </div>
+      <div class="skill-group">
+        <h3 class="skill-group-title">🗄️ Databases & Tools</h3>
+        <div class="skill-tags">
+          <span class="stag db">MySQL</span><span class="stag db">Firebase</span>
+          <span class="stag db">Supabase</span><span class="stag tool">Git</span>
+          <span class="stag tool">GitHub</span><span class="stag tool">Python</span>
+          <span class="stag tool">Shell Scripting</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── PROJECTS ── -->
+<section id="projects" class="section">
+  <div class="section-inner">
+    <div class="section-head">
+      <span class="section-icon">🚀</span>
+      <h2 class="section-title">Projects Gallery</h2>
+      <div class="section-divider"></div>
+    </div>
+    <div class="projects-grid">
+
+      <div class="proj-card" onclick="openProject('healthcare')">
+        <div class="proj-header" style="--accent:#22c55e">
+          <span class="proj-icon">🏥</span>
+          <span class="proj-tag">AI · Python · Web</span>
+        </div>
+        <h3 class="proj-title">Healthcare AI Assistant</h3>
+        <p class="proj-desc">AI-powered symptom analysis and health guidance system with intelligent recommendations.</p>
+        <div class="proj-footer">
+          <a href="https://github.com/albin170/" target="_blank" class="proj-link">GitHub →</a>
+        </div>
+      </div>
+
+      <div class="proj-card" onclick="openProject('english')">
+        <div class="proj-header" style="--accent:#d97706">
+          <span class="proj-icon">🗣️</span>
+          <span class="proj-tag">JS · Speech API · AI</span>
+        </div>
+        <h3 class="proj-title">English Speaking AI</h3>
+        <p class="proj-desc">Improves pronunciation, vocabulary, and communication skills with AI feedback.</p>
+        <div class="proj-footer">
+          <a href="https://github.com/albin170/" target="_blank" class="proj-link">GitHub →</a>
+        </div>
+      </div>
+
+      <div class="proj-card" onclick="openProject('canteen')">
+        <div class="proj-header" style="--accent:#0ea5e9">
+          <span class="proj-icon">🍽️</span>
+          <span class="proj-tag">React · Node.js · MySQL</span>
+        </div>
+        <h3 class="proj-title">Smart Canteen System</h3>
+        <p class="proj-desc">Web-based food ordering and real-time order tracking platform for campuses.</p>
+        <div class="proj-footer">
+          <a href="https://github.com/albin170/" target="_blank" class="proj-link">GitHub →</a>
+        </div>
+      </div>
+
+      <div class="proj-card" onclick="openProject('fitness')">
+        <div class="proj-header" style="--accent:#f59e0b">
+          <span class="proj-icon">💪</span>
+          <span class="proj-tag">HTML · CSS · JS</span>
+        </div>
+        <h3 class="proj-title">Fitness Food Marketplace</h3>
+        <p class="proj-desc">Digital marketplace for healthy foods and fitness nutrition products.</p>
+        <div class="proj-footer">
+          <a href="https://github.com/albin170/" target="_blank" class="proj-link">GitHub →</a>
+        </div>
+      </div>
+
+      <div class="proj-card" onclick="openProject('study')">
+        <div class="proj-header" style="--accent:#16a34a">
+          <span class="proj-icon">📚</span>
+          <span class="proj-tag">Python · ML · Web</span>
+        </div>
+        <h3 class="proj-title">AI Study Planner</h3>
+        <p class="proj-desc">Smart academic planner with goal setting, AI scheduling, and progress tracking.</p>
+        <div class="proj-footer">
+          <a href="https://github.com/albin170/" target="_blank" class="proj-link">GitHub →</a>
+        </div>
+      </div>
+
+      <div class="proj-card" onclick="openProject('interview')">
+        <div class="proj-header" style="--accent:#ec4899">
+          <span class="proj-icon">🎤</span>
+          <span class="proj-tag">AI · Speech · Web</span>
+        </div>
+        <h3 class="proj-title">Mock Interview AI</h3>
+        <p class="proj-desc">AI-based interview prep platform with personalized feedback and scoring.</p>
+        <div class="proj-footer">
+          <a href="https://github.com/albin170/" target="_blank" class="proj-link">GitHub →</a>
+        </div>
+      </div>
+
+      <div class="proj-card" onclick="openProject('election')">
+        <div class="proj-header" style="--accent:#6366f1">
+          <span class="proj-icon">🗳️</span>
+          <span class="proj-tag">HTML · CSS · JS · AI</span>
+        </div>
+        <h3 class="proj-title">Election Assistant</h3>
+        <p class="proj-desc">Simplifies election procedures, timelines, and voting process guidance.</p>
+        <div class="proj-footer">
+          <a href="https://github.com/albin170/" target="_blank" class="proj-link">GitHub →</a>
+        </div>
+      </div>
+
+      <div class="proj-card proj-featured" onclick="openProject('portfolio')">
+        <div class="proj-header" style="--accent:#22c55e">
+          <span class="proj-icon">🌿</span>
+          <span class="proj-tag">Three.js · GSAP · JS</span>
+        </div>
+        <h3 class="proj-title">Personal Portfolio</h3>
+        <p class="proj-desc">This very nature-themed portfolio you are exploring right now!</p>
+        <div class="proj-footer">
+          <a href="https://github.com/albin170/" target="_blank" class="proj-link">GitHub →</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ── ACHIEVEMENTS ── -->
+<section id="achievements" class="section section-alt">
+  <div class="section-inner">
+    <div class="section-head">
+      <span class="section-icon">🏆</span>
+      <h2 class="section-title">Achievement Hall</h2>
+      <div class="section-divider"></div>
+    </div>
+
+    <div class="counters-row">
+      <div class="counter-card" data-target="8">
+        <div class="counter-icon">🚀</div>
+        <div class="counter-val" id="cnt-0">0+</div>
+        <div class="counter-lbl">Projects Built</div>
+      </div>
+      <div class="counter-card" data-target="15">
+        <div class="counter-icon">⚡</div>
+        <div class="counter-val" id="cnt-1">0+</div>
+        <div class="counter-lbl">Technologies</div>
+      </div>
+      <div class="counter-card" data-target="2">
+        <div class="counter-icon">📜</div>
+        <div class="counter-val" id="cnt-2">0+</div>
+        <div class="counter-lbl">Certifications</div>
+      </div>
+      <div class="counter-card" data-target="100">
+        <div class="counter-icon">💯</div>
+        <div class="counter-val" id="cnt-3">0%</div>
+        <div class="counter-lbl">Dedication</div>
+      </div>
+    </div>
+
+    <div class="ach-list">
+      <div class="ach-card">
+        <div class="ach-icon-bg">🤖</div>
+        <div class="ach-body">
+          <h4>AI & ML Development</h4>
+          <p>Built multiple AI-powered applications independently with real-world impact</p>
+        </div>
+      </div>
+      <div class="ach-card">
+        <div class="ach-icon-bg">💻</div>
+        <div class="ach-body">
+          <h4>Full-Stack Engineering</h4>
+          <p>Active GitHub contributor with diverse public repositories across multiple domains</p>
+        </div>
+      </div>
+      <div class="ach-card">
+        <div class="ach-icon-bg">📚</div>
+        <div class="ach-body">
+          <h4>Continuous Learning</h4>
+          <p>Ongoing AI/ML & Web Development certification programs</p>
+        </div>
+      </div>
+      <div class="ach-card">
+        <div class="ach-icon-bg">🌟</div>
+        <div class="ach-body">
+          <h4>Innovation Drive</h4>
+          <p>Passionate about emerging technologies and open-source development</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="lang-row">
+      <span class="lang-badge">🌐 English</span>
+      <span class="lang-badge">🗣️ Malayalam</span>
+    </div>
+  </div>
+</section>
+
+<!-- ── FOOTER ── -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-avatar-wrap">
+      <img src="charter.jpg" alt="Albin Binu" class="footer-avatar" />
+    </div>
+    <h3 class="footer-name">Albin Binu</h3>
+    <p class="footer-role">CS Engineer · AI Developer · Full-Stack Builder</p>
+    <div class="footer-socials">
+      <a href="https://github.com/albin170/" target="_blank" class="fsoc">GitHub</a>
+      <a href="https://www.linkedin.com/in/albinbinu170/" target="_blank" class="fsoc">LinkedIn</a>
+      <a href="mailto:albinbinu170@gmail.com" class="fsoc">Email</a>
+    </div>
+    <p class="footer-copy">© 2026 Albin Binu · Built with 🌿 and passion</p>
+  </div>
+</footer>
+
+<!-- ── CONTACT MODAL ── -->
+<div id="contact-modal" class="modal-overlay hidden">
+  <div class="modal-card">
+    <button class="modal-close" onclick="document.getElementById('contact-modal').classList.add('hidden')">✕</button>
+    <div class="modal-avatar-wrap">
+      <img src="charter.jpg" alt="Albin Binu" class="modal-avatar" />
+    </div>
+    <h3>Get In Touch 🌿</h3>
+    <p>I'm always open to new opportunities and collaborations!</p>
+    <div class="contact-links">
+      <a href="mailto:albinbinu170@gmail.com" class="contact-item">📧 albinbinu170@gmail.com</a>
+      <a href="tel:7012787615" class="contact-item">📞 7012787615</a>
+      <a href="https://github.com/albin170/" target="_blank" class="contact-item">💻 github.com/albin170</a>
+      <a href="https://www.linkedin.com/in/albinbinu170/" target="_blank" class="contact-item">🔗 linkedin.com/in/albinbinu170</a>
+    </div>
+  </div>
+</div>
+
+<!-- Three.js removed — video replaces 3D canvas -->
+<script src="main.js"></script>
+</body>
+</html>
