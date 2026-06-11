@@ -72,17 +72,46 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trophies & Achievements
 
 <p align="center">
     <img src="https://github-trophies.vercel.app/?username=albin170&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
+
+## 🎖️ Professional Badges & Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/⭐%20Python%20Expert-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/💜%20Backend%20Developer-9966CC?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/🤖%20AI%20Focused-FF6B6B?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/🌟%20Open%20Source%20Contributor-FFA500?style=for-the-badge&logoColor=white"/>
+</p>
+
+## 🏅 Extended Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯%20Problem%20Solver-8B5CF6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📚%20Continuous%20Learner-00CED1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💡%20Innovative%20Developer-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀%20Full%20Stack%20Master-FF1493?style=for-the-badge"/>
+</p>
+
+## 🎗️ Technical Excellence Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✨%20Code%20Quality-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚙️%20System%20Design-4169E1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔐%20Security%20Focused-DC143C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌐%20Web%20Specialist-FF6347?style=for-the-badge"/>
+</p>
+
+## 🥇 Developer Milestones
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📈%20Performance%20Optimizer-00FA9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎨%20UI%2FUX%20Designer-DA70D6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔧%20DevOps%20Enthusiast-FF8C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🌈%20Creative%20Developer-40E0D0?style=for-the-badge"/>
 </p>
 
 ---
