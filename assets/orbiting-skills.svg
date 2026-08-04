@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 260" width="600" height="260" role="img" aria-label="Developer core with orbiting skills">
+  <defs>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .core { fill:#0ea5a4; filter:url(#glow); }
+      .orbit { fill:none; stroke: rgba(255,255,255,0.08); stroke-width:1 }
+      .planet { fill:#fff; stroke:#0f172a; stroke-width:0.6; }
+      .label { font: 12px/1.1 "Inter", sans-serif; fill:#e6eef0 }
+    </style>
+  </defs>
+
+  <!-- background -->
+  <rect width="100%" height="100%" fill="#071026" rx="8"/>
+
+  <!-- central core -->
+  <g transform="translate(300,130)">
+    <circle class="core" r="34" />
+    <!-- subtle rotation -->
+    <g transform="rotate(0)">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="20s" repeatCount="indefinite"/>
+    </g>
+    <text class="label" x="0" y="6" text-anchor="middle" font-weight="600" font-size="12">albin170</text>
+  </g>
+
+  <!-- orbital paths -->
+  <g transform="translate(300,130)">
+    <circle class="orbit" r="70"/>
+    <circle class="orbit" r="110"/>
+    <circle class="orbit" r="150"/>
+  </g>
+
+  <!-- planets (skills) moving along orbits -->
+  <!-- planet 1 -->
+  <g>
+    <path id="orbit1" d="M300 130 m 70 0 a 70 70 0 1 0 -140 0 a 70 70 0 1 0 140 0" fill="none"/>
+    <g class="planet-group">
+      <circle class="planet" r="8" />
+      <text class="label" x="14" y="4">JS</text>
+      <animateMotion dur="8s" repeatCount="indefinite">
+        <mpath xlink:href="#orbit1"/>
+      </animateMotion>
+    </g>
+  </g>
+
+  <!-- planet 2 -->
+  <g>
+    <path id="orbit2" d="M300 130 m 110 0 a 110 110 0 1 0 -220 0 a 110 110 0 1 0 220 0" fill="none"/>
+    <g class="planet-group">
+      <circle class="planet" r="7" fill="#ffd166"/>
+      <text class="label" x="14" y="4">React</text>
+      <animateMotion dur="12s" repeatCount="indefinite">
+        <mpath xlink:href="#orbit2"/>
+      </animateMotion>
+    </g>
+  </g>
+
+  <!-- planet 3 -->
+  <g>
+    <path id="orbit3" d="M300 130 m 150 0 a 150 150 0 1 0 -300 0 a 150 150 0 1 0 300 0" fill="none"/>
+    <g class="planet-group">
+      <circle class="planet" r="9" fill="#7afcff"/>
+      <text class="label" x="14" y="4">Blender</text>
+      <animateMotion dur="18s" repeatCount="indefinite">
+        <mpath xlink:href="#orbit3"/>
+      </animateMotion>
+    </g>
+  </g>
+
+  <!-- tiny particle field around core for life -->
+  <g opacity="0.9">
+    <circle cx="240" cy="90" r="1.2" fill="#9be7ff">
+      <animate attributeName="cx" values="240;360;240" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="90;170;90" dur="8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="110" r="0.9" fill="#ffd8a8">
+      <animate attributeName="cx" values="350;260;350" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="110;150;110" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
