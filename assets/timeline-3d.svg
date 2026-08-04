@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 240" width="800" height="240" role="img" aria-label="3D timeline preview">
+  <defs>
+    <style>
+      .bg{fill:#071026}
+      .path{stroke:rgba(255,255,255,0.06);stroke-width:2;fill:none}
+      .node{fill:#8b5cf6;stroke:#fff;stroke-opacity:0.08}
+      .label{font:12px/1.1 Inter, sans-serif; fill:#e6eef0}
+    </style>
+  </defs>
+  <rect width="100%" height="100%" class="bg" rx="8"/>
+  <!-- road perspective -->
+  <g transform="translate(100,40)">
+    <path class="path" d="M0 160 L200 120 L420 80 L700 20"/>
+    <!-- nodes -->
+    <g transform="translate(30,150)">
+      <circle class="node" r="8"/>
+      <text class="label" x="18" y="4">2018 — Started</text>
+    </g>
+    <g transform="translate(200,120)">
+      <circle class="node" r="10"/>
+      <text class="label" x="18" y="4">2020 — Backend</text>
+    </g>
+    <g transform="translate(420,80)">
+      <circle class="node" r="12"/>
+      <text class="label" x="18" y="4">2023 — AI Systems</text>
+    </g>
+    <g transform="translate(640,30)">
+      <circle class="node" r="9"/>
+      <text class="label" x="18" y="4">Future — Projects</text>
+    </g>
+    <!-- subtle forward motion -->
+    <g>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" values="0 0;0 -6;0 0" dur="6s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
