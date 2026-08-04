@@ -1,18 +1,22 @@
 # 🌌 Albin Binu
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:6d28d9,100:8b5cf6&text=ALBIN%20BINU&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%[...]
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:6d28d9,100:8b5cf6&text=ALBIN%20BINU&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer" alt="hero banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Albin+Binu;🚀+Building+..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Albin+Binu;🚀+Building+backend+systems+and+AI+features" alt="typing intro" />
 </p>
+
+<p align="center">A cinematic preview of my interactive developer portfolio — click the image to open the full interactive experience (live site or demo).</p>
 
 <p align="center">
   <a href="https://albin170.github.io/">
     <img src="/assets/orbiting-skills.svg" alt="3D skill orbit preview — click to open interactive portfolio" />
   </a>
 </p>
+
+<p align="center">Poster & WebP instructions and files are in <a href="/docs/build-notes.md">docs/build-notes.md</a>. If you prefer the animated WebP hero as primary, generate <code>assets/hero-loop.webp</code> following those instructions and I will update the README to use it as the primary preview.</p>
 
 ---
 

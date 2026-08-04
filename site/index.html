@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>albin170 — Interactive Developer Universe (placeholder)</title>
+  <style>body{background:#071026;color:#e6eef0;font-family:Inter,system-ui,Segoe UI,Roboto;}main{max-width:1000px;margin:40px auto;padding:24px}</style>
+</head>
+<body>
+  <main>
+    <h1>Interactive Developer Universe — Placeholder</h1>
+    <p>This folder is a scaffold for your interactive Three.js / Spline site. Replace this placeholder with your project's interactive export or use the script below to start a minimal Three.js scene.</p>
+
+    <h2>Quick start</h2>
+    <ol>
+      <li>Install: npm init -y && npm i three</li>
+      <li>Replace <code>index.html</code> with your exported interactive build or implement a Three.js scene in <code>/site/</code>.</li>
+      <li>Deploy: push to the <code>main</code> branch and enable GitHub Pages (gh-pages branch optional).</li>
+    </ol>
+
+    <p>Example Three.js CDN snippet to get started:</p>
+    <pre><code>&lt;script src="https://cdn.jsdelivr.net/npm/three@0.161.0/build/three.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+const scene = new THREE.Scene();
+const camera = new THREE.PerspectiveCamera(75, window.innerWidth/window.innerHeight, 0.1, 1000);
+const renderer = new THREE.WebGLRenderer({antialias:true});
+renderer.setSize(window.innerWidth, window.innerHeight);
+document.body.appendChild(renderer.domElement);
+const geometry = new THREE.BoxGeometry();
+const material = new THREE.MeshNormalMaterial();
+const cube = new THREE.Mesh(geometry, material);
+scene.add(cube);
+camera.position.z = 5;
+function animate(){requestAnimationFrame(animate);cube.rotation.x += 0.01;cube.rotation.y += 0.01;renderer.render(scene,camera);}animate();
+&lt;/script&gt;</code></pre>
+
+    <p>When you're ready, point GitHub Pages to the <code>/site</code> folder or deploy with Vercel/Netlify.</p>
+  </main>
+</body>
+</html>
