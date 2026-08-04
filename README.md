@@ -1,11 +1,17 @@
 # 🌌 Albin Binu
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:6d28d9,100:8b5cf6&text=ALBIN%20BINU&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=52" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:6d28d9,100:8b5cf6&text=ALBIN%20BINU&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%[...]
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Albin+Binu;🚀+Building+Scalable+Systems;🤖+AI+and+Backend+Enthusiast" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Albin+Binu;🚀+Building+..." />
+</p>
+
+<p align="center">
+  <a href="https://albin170.github.io/">
+    <img src="/assets/orbiting-skills.svg" alt="3D skill orbit preview — click to open interactive portfolio" />
+  </a>
 </p>
 
 ---
