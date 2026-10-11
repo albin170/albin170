@@ -1,183 +1,366 @@
-# 🚀 Albin Binu | Superhero Developer
+# 🎬 ALBIN BINU | THE CODE HERO 🦸‍♂️
+
+<div align="center">
+
+<!-- 3D ANIMATED HERO ENTRANCE -->
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   ⚡ SUPERHERO DEVELOPER ACTIVATED ⚡                             ║
+║                                                                    ║
+║   🚀 BUILDING SYSTEMS THAT RESHAPE THE DIGITAL UNIVERSE 🚀        ║
+║                                                                    ║
+║   💥 FLYING THROUGH CODE AT SUPERSONIC SPEEDS 💥                  ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🌌 3D HERO SECTION - ACTIVATE SUPERPOWERS
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,35:4f46e5,70:8b5cf6,100:ec4899&text=ALBIN%20BINU&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FULL%20STACK%20DEV%20%7C%20AI%20BUILDER%20%7C%20SYSTEM%20HERO" alt="Albin hero banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=vicious&height=400&color=0:FF006E,25:FB5607,50:FFBE0B,75:8338EC,100:3A86FF&text=⚡%20ALBIN%20BINU%20⚡&fontSize=90&fontColor=ffffff&animation=blinking&fontAlignY=38&desc=THE%20LEGENDARY%20CODE%20WARRIOR&descAlignY=60&descSize=25" alt="Epic hero entrance" width="100%"/>
+</p>
+
+---
+
+## 💫 HERO STATUS - LIVE POWER LEVELS
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                    🏋️ POWER LEVEL GAUGE 🏋️                    ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  🧠 INTELLIGENCE    ████████████████████░ 95%                ║
+║  ⚡ SPEED           █████████████████████ 100%               ║
+║  💪 STRENGTH        ████████████████████░ 98%                ║
+║  🔥 CREATIVITY      ████████████████████░ 99%                ║
+║  🚀 INNOVATION      █████████████████████ 100%               ║
+║  🛡️ RESILIENCE      ████████████████████░ 97%                ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=FF006E&center=true&vCenter=true&width=1200&height=100&lines=⚔️%20FULL%20STACK%20CODE%20WARRIOR;🤖%20AI%20%26%20MACHINE%20LEARNING%20MASTER;🏗️%20BACKEND%20ARCHITECTURE%20HERO;🎨%20FRONTEND%20DESIGN%20LEGEND;🚀%20PRODUCT%20BUILDER%20EXTRAORDINAIRE;💡%20PROBLEM%20SOLVER%20SUPREME" alt="Epic typing animation" />
+</p>
+
+---
+
+## 🦸‍♂️ HERO ORIGIN STORY
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+
+### 👨‍💻 THE LEGEND
+```
+╭──────────────────────────╮
+│  ⚡ CODE NAME: ALBIN ⚡   │
+│                          │
+│  CLASS: Full Stack Dev   │
+│  LEVEL: MASTER           │
+│  STATUS: 🔴 ACTIVE       │
+│                          │
+│  SPECIALTIES:            │
+│  ├─ Backend Architecture │
+│  ├─ AI Automation        │
+│  ├─ Database Mastery     │
+│  ├─ Frontend Excellence  │
+│  └─ System Design        │
+│                          │
+│  MISSION:                │
+│  Build systems that      │
+│  transform the digital   │
+│  landscape forever       │
+│                          │
+╰──────────────────────────╯
+```
+
+    </td>
+    <td width="50%" align="center">
+
+<!-- ANIMATED HERO GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Epic coding animation" width="100%" style="border-radius: 15px; box-shadow: 0 0 30px rgba(255, 0, 110, 0.8); animation: pulse 2s infinite;" />
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚡ SUPERPOWER ARSENAL (6 EPIC ABILITIES)
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                     🎯 COMBAT ABILITIES 🎯                          ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <div style="background: linear-gradient(135deg, #FF006E, #FB5607); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 110, 0.8);">
+        <h3>⚔️ BACKEND WARRIOR</h3>
+        <p><strong>Power Level: 99/100</strong></p>
+        <p>APIs • Microservices • Scalability</p>
+        <p style="font-size: 20px;">━━━━━━━━━━━ 99%</p>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="background: linear-gradient(135deg, #FB5607, #FFBE0B); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(251, 86, 7, 0.8);">
+        <h3>🤖 AI ARCHITECT</h3>
+        <p><strong>Power Level: 97/100</strong></p>
+        <p>ML • Automation • Intelligence</p>
+        <p style="font-size: 20px;">━━━━━━━━━ 97%</p>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="background: linear-gradient(135deg, #FFBE0B, #8338EC); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(131, 56, 236, 0.8);">
+        <h3>💾 DATABASE LEGEND</h3>
+        <p><strong>Power Level: 96/100</strong></p>
+        <p>Optimization • Modeling • Performance</p>
+        <p style="font-size: 20px;">━━━━━━━ 96%</p>
+      </div>
+    </td>
+  </tr>
+  <tr height="20"></tr>
+  <tr>
+    <td width="33%" align="center">
+      <div style="background: linear-gradient(135deg, #8338EC, #3A86FF); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(58, 134, 255, 0.8);">
+        <h3>🎨 FRONTEND MASTER</h3>
+        <p><strong>Power Level: 95/100</strong></p>
+        <p>UX • UI • Animations • Design</p>
+        <p style="font-size: 20px;">━━━━━━ 95%</p>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="background: linear-gradient(135deg, #3A86FF, #FF006E); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 110, 0.8);">
+        <h3>⚙️ SYSTEM ENGINEER</h3>
+        <p><strong>Power Level: 98/100</strong></p>
+        <p>Architecture • Design • Patterns</p>
+        <p style="font-size: 20px;">━━━━━━━━ 98%</p>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <div style="background: linear-gradient(135deg, #FF006E, #8338EC); padding: 20px; border-radius: 15px; box-shadow: 0 0 20px rgba(131, 56, 236, 0.8);">
+        <h3>🚀 PRODUCT HERO</h3>
+        <p><strong>Power Level: 100/100</strong></p>
+        <p>Shipping • Innovation • Impact</p>
+        <p style="font-size: 20px;">━━━━━━━━━━ 100%</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 EPIC TECH LOADOUT
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                  ⚡ LEGENDARY TECH ARSENAL ⚡                       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║  LANGUAGE ENGINES:                                                   ║
+║  ▶ 🐍 PYTHON       ║████████████████████░║ 92%                      ║
+║  ▶ 🟨 JAVASCRIPT   ║███████████████░░░░░║ 75%                      ║
+║  ▶ ☕ JAVA        ║██████████████████░░║ 85%                      ║
+║  ▶ 🖥️ C++        ║████████████████░░░░║ 80%                      ║
+║                                                                      ║
+║  WEB TECHNOLOGIES:                                                   ║
+║  ▶ 🏗️ HTML5       ║█████████████████████║ 100%                     ║
+║  ▶ 🎨 CSS3        ║████████████████████░║ 97%                      ║
+║  ▶ ⚛️ JavaScript  ║███████████████░░░░░║ 75%                      ║
+║                                                                      ║
+║  DATABASE SYSTEMS:                                                   ║
+║  ▶ 🗄️ MySQL       ║████████████████████░║ 96%                      ║
+║  ▶ 🔥 Firebase    ║████████████████░░░░║ 80%                      ║
+║                                                                      ║
+║  TOOLS & FRAMEWORKS:                                                 ║
+║  ▶ 🚀 Git         ║█████████████████████║ 100%                     ║
+║  ▶ 🐳 Docker      ║████████████░░░░░░░░║ 65%                      ║
+║  ▶ ⚙️ APIs        ║████████████████████░║ 98%                      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📊 REPO COMPOSITION: TECH BATTLEFIELD
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║         🏆 REPOSITORY COMBAT COMPOSITION 🏆                   ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                ║
+║  🎨 CSS        ████████████████░░░░░  46.1%  [STYLING POWER]   ║
+║  📄 HTML       ████████████░░░░░░░░░  33.6%  [MARKUP FORCE]    ║
+║  ⚡ JavaScript ██████░░░░░░░░░░░░░░░  17.2%  [LOGIC RUSH]      ║
+║  🐍 Python     ██░░░░░░░░░░░░░░░░░░░   3.1%  [AI INFUSION]     ║
+║                                                                ║
+║  TOTAL POWER: ███████████████████████ 100%                    ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🌟 EPIC ACHIEVEMENTS & HIGHLIGHTS
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                    🏅 HALL OF LEGENDS 🏅                          ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║  ⭐ Scalable Backend Architecture          [MASTERED]            ║
+║  ⭐ AI & Machine Learning Integration      [LEGENDARY]           ║
+║  ⭐ Database Optimization & Performance    [EXPERT]              ║
+║  ⭐ Full Stack Development Excellence      [MASTER]              ║
+║  ⭐ Clean Code & Best Practices            [CHAMPION]            ║
+║  ⭐ Product-Focused Engineering            [UNSTOPPABLE]         ║
+║  ⭐ Continuous Learning & Innovation       [ETERNAL]             ║
+║  ⭐ System Design & Architecture           [LEGENDARY]           ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📈 REAL-TIME POWER ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=albin170&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&text_color=FF006E&title_color=FB5607&icon_color=FFBE0B" alt="GitHub stats with radical theme" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albin170&theme=radical&hide_border=true&layout=compact&bg_color=0D1117&text_color=FF006E&title_color=FB5607" alt="Top languages" width="100%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=albin170&theme=radical&hide_border=true&stroke=FF006E&background=0D1117&currStreakNum=FFBE0B" alt="Contribution streak fire" width="70%"/>
+
+</div>
+
+---
+
+## 🎬 INTERACTIVE PORTAL - ENTER THE UNIVERSE
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF006E,50:8338EC,100:3A86FF&text=🌌%20ENTER%20INTERACTIVE%20UNIVERSE%20🌌&fontSize=28&fontColor=ffffff&height=120&desc=CLICK%20TO%20EXPERIENCE%20THE%20FULL%20POWER" alt="interactive portal banner" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&height=60&lines=FULL+STACK+DEVELOPER;AI+BUILDER;BACKEND+ARCHITECT;SUPERHERO+CODER" alt="Typing banner" />
-</p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://img.shields.io/badge/⚡_BUILD-Scalable%20Systems-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="Build badge" />
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.shields.io/badge/🧠_THINK-AI%20%26%20Logic-22D3EE?style=for-the-badge&logo=brain&logoColor=black" alt="AI badge" />
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.shields.io/badge/🚀_SHIP-Product%20Ready-34D399?style=for-the-badge&logo=githubactions&logoColor=black" alt="Ship badge" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🦸 Hero Profile
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="55%" valign="top">
-
-### 👨‍💻 About the Developer
-I design and ship resilient digital systems, from clean backend architecture to AI-powered experiences and polished interfaces. My mission is simple: turn complex ideas into products that feel fast, reliable, and unforgettable.
-
-- 🔥 Full Stack Developer
-- 🤖 AI & automation enthusiast
-- 🧱 Backend architecture & performance
-- 🎨 Frontend craft with responsive design
-- 🚀 Builders mindset: ship, learn, improve
-
-      </td>
-      <td width="45%" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="developer coding animation" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🛡️ Superpowers
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/🧱_POWER-Backend%20Systems-8B5CF6?style=flat-square&logoColor=white" alt="Backend power" />
-        <br />
-        APIs, microservices, scalable systems
-      </td>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/🤖_POWER-AI%20Automation-22D3EE?style=flat-square&logoColor=black" alt="AI power" />
-        <br />
-        Automation, workflows, intelligent tools
-      </td>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/💾_POWER-Database%20Optimization-F59E0B?style=flat-square&logoColor=black" alt="DB power" />
-        <br />
-        Query tuning, data modeling, performance
-      </td>
-      <td width="25%" align="center">
-        <img src="https://img.shields.io/badge/🎨_POWER-Frontend%20Craft-EC4899?style=flat-square&logoColor=white" alt="Frontend power" />
-        <br />
-        UX, UI, responsiveness, experience
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## ⚙️ Tech Arsenal
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=111827)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=111827)
-![HTML5](https://img.shields.io/badge/HTML5-Semantic-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=111827)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=111827)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=111827)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=111827)
-
-</div>
-
----
-
-## 📊 Mission Control: Repo Composition
-
-<div align="center">
-
-| Language | Share | Power Meter |
-|:---|---:|:---|
-| CSS | 46.1% | ████████████████ 46.1% |
-| HTML | 33.6% | █████████████ 33.6% |
-| JavaScript | 17.2% | ████████ 17.2% |
-| Python | 3.1% | ██ 3.1% |
-
-</div>
-
----
-
-## 🏆 Featured Highlights
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&height=160&color=0:0f172a,25:6d28d9,75:8b5cf6,100:ec4899&text=BUILD%20%7C%20LEARN%20%7C%20SHARE&fontSize=28&fontColor=ffffff&animation=twinkling" alt="build learn share banner" />
-
-</div>
-
-- ✅ Build systems that scale with confidence
-- ✅ Design polished experiences that feel premium
-- ✅ Turn technical complexity into clean, usable solutions
-- ✅ Create tools that help people work smarter and faster
-- ✅ Keep learning, iterating, and shipping with purpose
-
----
-
-## 📈 GitHub Command Center
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=albin170&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&text_color=C4B5FD&title_color=67E8F9" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albin170&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&text_color=C4B5FD&title_color=67E8F9" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=albin170&theme=tokyonight&hide_border=true&stroke=8B5CF6&background=0D1117" alt="Contribution streak" width="60%" />
-
-</div>
-
----
-
-## 🌐 Launch Pad
-
-<p align="center">
-  <a href="https://albin170.github.io/" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:ec4899&text=🚀%20OPEN%20PORTFOLIO&fontSize=22&fontColor=ffffff&height=80&desc=Interactive%20Developer%20Universe" alt="Portfolio button" />
+  <a href="https://albin170.github.io/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🚀%20LAUNCH%20PORTFOLIO-FF006E?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0D1117" alt="Launch portfolio button" />
   </a>
 </p>
 
+<p align="center">
+  <em>Experience 3D animations, live demos, and an immersive showcase of superpowers and achievements!</em>
+</p>
+
 ---
 
-## 🤝 Connect With the Hero
+## 🤝 SUMMON THE HERO - CONTACT PROTOCOLS
 
 <div align="center">
 
-<a href="mailto:albinbinu170@gmail.com">
-  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" alt="Email" />
-</a>
-<a href="https://github.com/albin170">
-  <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/albin-binu">
-  <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/albin170">
-  <img src="https://img.shields.io/badge/Twitter-8B5CF6?style=for-the-badge&logo=twitter&logoColor=white&labelColor=111827" alt="Twitter" />
-</a>
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <a href="mailto:albinbinu170@gmail.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/📧_EMAIL-FF006E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email" />
+      </a>
+      <p><strong>Direct Message</strong></p>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/albin170" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/🐙_GITHUB-FB5607?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+      </a>
+      <p><strong>Code Repository</strong></p>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://linkedin.com/in/albin-binu" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/💼_LINKEDIN-FFBE0B?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0D1117" alt="LinkedIn" />
+      </a>
+      <p><strong>Professional Profile</strong></p>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://twitter.com/albin170" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/🐦_TWITTER-8338EC?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter" />
+      </a>
+      <p><strong>Social Updates</strong></p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
+## 🌌 LEGEND STATUS
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║                  🌟 YOU HAVE UNLOCKED THE LEGEND 🌟               ║
+║                                                                    ║
+║   ✨ SUPERHERO DEVELOPER ACTIVATED & READY FOR BATTLE ✨           ║
+║                                                                    ║
+║   This README is continuously evolving with new power levels...   ║
+║   Stay tuned for legendary achievements and epic updates!         ║
+║                                                                    ║
+║                   ⚡ POWER STATUS: MAXIMUM ⚡                      ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
 <p align="center">
-  <strong>⭐ If you like the mission, give this repo a star. ⭐</strong><br>
-  <em>Last Updated: 2026 • Building bold ideas into reality 🚀</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:FF006E,25:FB5607,50:FFBE0B,75:8338EC,100:3A86FF&animation=twinkling" alt="Epic footer animation" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/albin170/count.svg" alt="visitor counter" />
+  <strong>⭐ IF THIS LEGEND INSPIRES YOU, GIVE IT A STAR! ⭐</strong><br/>
+  <em>Last Updated: 2026 | Building Tomorrow's Digital Heroes Today 🚀</em>
 </p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/albin170/count.svg" alt="Legend visitor counter" />
+</p>
+
+---
+
+<div align="center">
+
+### 🎮 STATUS: ALWAYS ONLINE | POWER LEVEL: UNLIMITED | READY TO BUILD THE FUTURE
+
+</div>
