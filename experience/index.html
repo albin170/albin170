@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<meta name="theme-color" content="#050914"/>
+<meta name="description" content="Albin's Codeverse — a cinematic interactive developer landing page with three original superheroes."/>
+<title>ALBIN // THE CODEVERSE</title>
+<link rel="stylesheet" href="./styles.css"/>
+</head>
+<body>
+<canvas id="hyperfield" aria-hidden="true"></canvas>
+<div class="noise" aria-hidden="true"></div>
+<div class="hud-lines" aria-hidden="true"></div>
+<div id="cursor" aria-hidden="true"></div>
+<header class="topnav">
+  <a href="https://github.com/albin170" class="brand" aria-label="Albin's GitHub profile"><b>A<span>Λ</span></b> <small>ALBIN // CODEVERSE</small></a>
+  <nav aria-label="Main navigation"><a href="#portal">3D REACTOR</a><a href="#heroes">THE HEROES</a><a href="#missions">THE MISSIONS</a><a href="https://albin170.github.io/" target="_blank" rel="noopener">PORTFOLIO ↗</a></nav>
+  <button id="motionButton" class="motion" type="button" aria-pressed="true">◉ MOTION: ON</button>
+</header>
+<main>
+<section class="hero" id="top">
+ <div class="image-layer" id="imageLayer" aria-hidden="true"></div>
+ <div class="hero-overlay" aria-hidden="true"></div>
+ <div class="orbital orbit-one" aria-hidden="true"></div><div class="orbital orbit-two" aria-hidden="true"></div>
+ <div class="hero-content">
+   <p class="eyebrow"><span class="live">●</span> TRANSMISSION 001 // ORIGIN STORY</p>
+   <h1><span class="line-a">WELCOME TO</span><span class="line-b" data-text="THE CODEVERSE">THE CODEVERSE</span></h1>
+   <p class="strap">THREE FORCES. ONE CREATOR. INFINITE POSSIBILITIES.</p>
+   <p class="desc">I'm Albin. I turn ambitious concepts into web experiences where design, engineering, and imagination collide.</p>
+   <div class="ctas"><a class="action action-primary" href="#heroes">UNLOCK HERO PROTOCOL <span>↗</span></a><a class="action action-secondary" href="https://github.com/albin170?tab=repositories" target="_blank" rel="noopener">VIEW SOURCE CODE ↗</a></div>
+ </div>
+ <div class="telemetry" aria-hidden="true"><span>SECTOR 07: LIVE</span><span>CORE STABILITY <b id="coreValue">98.7%</b></span><span>SCROLL TO EXPLORE ↓</span></div>
+</section>
+<section class="portal-section section" id="portal">
+  <div class="portal-copy">
+    <p class="eyebrow">// 02 — LIVE 3D ENGINE</p>
+    <h2>NOT JUST A PICTURE.<br/><em>A LIVING UNIVERSE.</em></h2>
+    <p>The reactor is built from actual rotating three-dimensional geometry—an energy core, orbiting metal rings, satellite lights, and hundreds of particles. Move your mouse to change your perspective.</p>
+    <div class="portal-features"><span>◈ NATIVE WEBGL</span><span>◈ REAL-TIME LIGHTING</span><span>◈ 3D DEPTH + PERSPECTIVE</span></div>
+    <div class="portal-actions"><button type="button" id="reactorBurst" class="action action-primary">⚡ OVERDRIVE THE CORE <span>↗</span></button><button type="button" id="reactorMode" class="action action-secondary">◉ SWITCH DIMENSION</button></div>
+    <div class="portal-caption" id="reactorStatus" role="status">DRAG YOUR CURSOR ACROSS THE REACTOR // PRESS R TO OVERDRIVE</div>
+  </div>
+  <div class="reactor" id="reactorStage" aria-label="Animated three dimensional energy reactor">
+    <div class="reactor-halo" aria-hidden="true"></div>
+    <div class="fallback-orb" aria-hidden="true"><i></i><i></i><i></i><span>✦</span></div>
+    <canvas id="reactorCanvas" aria-label="Live rotating WebGL holographic reactor" role="img"></canvas>
+    <div class="reactor-hud" aria-hidden="true"><span>CORE // ONLINE</span><span>REAL 3D</span></div>
+    <div class="reactor-floor" aria-hidden="true"></div>
+  </div>
+</section>
+<section class="heroes section" id="heroes">
+ <div class="section-head"><p class="eyebrow">// 03 — CHARACTER SELECT</p><h2>CHOOSE YOUR <em>POWER.</em></h2><p>Three facets of building the impossible. Move your cursor over a card and watch its armor react.</p></div>
+ <div class="hero-grid" id="heroGrid">
+  <article class="character ember" tabindex="0" aria-label="Volt Runner: motion and visual storytelling" data-power="VELOCITY"><div class="glow"></div><div class="character-media" style="background-image:url('../assets/hero-01.webp')"></div><div class="character-copy"><span>01 / MOTION</span><h3>VOLT<br/>RUNNER</h3><p>Interfaces should feel electric.</p><div class="meter"><i style="--w:95%"></i></div><small>POWER 95%</small></div></article>
+  <article class="character aqua selected" tabindex="0" aria-label="Neon Sentinel: resilient engineering and systems" data-power="SENTINEL"><div class="glow"></div><div class="character-media" style="background-image:url('../assets/hero-02.webp')"></div><div class="character-copy"><span>02 / SYSTEMS</span><h3>NEON<br/>SENTINEL</h3><p>Build the engine behind the magic.</p><div class="meter"><i style="--w:98%"></i></div><small>POWER 98%</small></div></article>
+  <article class="character violet" tabindex="0" aria-label="Void Architect: future concepts and AI experimentation" data-power="INFINITY"><div class="glow"></div><div class="character-media" style="background-image:url('../assets/hero-03.webp')"></div><div class="character-copy"><span>03 / IMAGINATION</span><h3>VOID<br/>ARCHITECT</h3><p>What if your next idea had no limits?</p><div class="meter"><i style="--w:92%"></i></div><small>POWER 92%</small></div></article>
+ </div>
+ <p class="keyhint">PRESS <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> TO SELECT · PRESS <kbd>SPACE</kbd> TO INITIATE WARP</p>
+</section>
+<section class="missions section" id="missions"><div class="section-head"><p class="eyebrow">// 04 — MISSION FILES</p><h2>BUILT FOR <em>IMPACT.</em></h2></div>
+ <a class="mission-panel" href="https://albin170.github.io/eia-green-infrastructure/" target="_blank" rel="noopener"><div><span class="eyebrow">MISSION_001 · LIVE</span><h3>EIA / GREEN INFRASTRUCTURE</h3><p>Exploring environmental impact and how thoughtful digital storytelling makes complex challenges approachable.</p><strong>LAUNCH THE LIVE PROJECT ↗</strong></div><div class="mission-core" aria-hidden="true"><span>✳</span></div></a>
+</section>
+<footer><a class="brand" href="#top"><b>A<span>Λ</span></b> <small>THE CODEVERSE</small></a><p>IMAGINE • BUILD • EXPLORE • REPEAT</p><a href="https://github.com/albin170">BACK TO GITHUB ↗</a></footer>
+</main>
+<div id="warpFlash" aria-hidden="true"></div>
+<script src="./world3d.js" defer></script>
+<script src="./script.js" defer></script>
+</body>
+</html>
