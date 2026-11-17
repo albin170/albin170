@@ -35,7 +35,7 @@
 
 > **Some write code. Some tell stories. I want to do both.**
 
-I'm **Albin**, a developer drawn to immersive interfaces, useful software, and ideas that feel a little impossible at first. I experiment with modern web experiences, motion, visual storytelling, and AI-assisted creativity—turning an idea into something people can actually use.
+I'm **Albin**, a developer drawn to immersive interfaces, useful software, and ideas that feel a little impossible at first. I experiment with modern web experiences, motion, visual storytelling, and front-end engineering with a strong focus on making digital experiences feel alive, intentional, and memorable.
 
 ```text
 ╭───────────────────────────────────────────────────────╮
@@ -85,7 +85,7 @@ I'm **Albin**, a developer drawn to immersive interfaces, useful software, and i
   <img src="./assets/reactor-3d.gif" alt="Moving 3D reactor: a rotating crystalline core, neon orbital rings, and satellites rendered with real three-dimensional projection" width="740" />
 </a>
 
-<sub>⚡ <b>THIS IS THE ANIMATED README PREVIEW.</b> The companion website has a real, mouse-responsive 3D WebGL reactor, reactive superhero cards, speed-warp effects, and moving particles. Deploy GitHub Pages to activate the link.</sub>
+<sub>⚡ <b>THIS IS THE ANIMATED README PREVIEW.</b> The companion website has a real, mouse-responsive 3D WebGL reactor, reactive superhero cards, speed-warp effects, and moving particles. Deploying the companion site unlocks the full experience.</sub>
 
 </div>
 
@@ -165,3 +165,34 @@ Whether it's a playful front end, a thoughtful product concept, or an experiment
 **`END OF ISSUE #001 — THE NEXT ONE IS BEING BUILT`**
 
 </div>
+
+---
+
+## `06 // LIVE SIGNALS`
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+> Constant experiments. Daily progress. Steady growth.
+
+![Rocket launch](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+### ⚡ Mission board
+
+| Focus | Mode | Energy |
+| --- | --- | --- |
+| Creative web experiences | Designing immersive products | High |
+| UI & motion systems | Prototyping interface ideas | High |
+| Frontend engineering | Shipping polished builds | Strong |
+| AI-assisted exploration | Testing new concepts | Rising |
+
+![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=albin170&theme=react-dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=albin170&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albin170&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albin170&layout=compact&theme=dracula)](https://github.com/albin170)
+
+---
+
+`KEEP BUILDING. KEEP EXPERIMENTING. KEEP MAKING THE WEB FEEL LIKE WONDER.`
